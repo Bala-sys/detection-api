@@ -1,1 +1,1 @@
-# detection-api
+deepfake-detector-api
